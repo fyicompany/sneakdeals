@@ -187,9 +187,7 @@ html {
   text-align: center;
 }
 
-.link-3:hover {
-  font-weight: 500;
-}
+
 
 .div-block-7 {
   position: fixed;
@@ -360,7 +358,7 @@ html {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 20px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -382,6 +380,7 @@ html {
   margin-bottom: 0px;
   font-size: 30px;
   line-height: 40px;
+  text-align: center;
 }
 
 .link-5 {
@@ -636,6 +635,7 @@ html {
   font-size: 18px;
   font-weight: 700;
   text-align: center;
+  color: #c92029;
 }
 
 .text-block-16 {
@@ -767,7 +767,7 @@ html {
 
 .text-block-21 {
   margin-top: 11px;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 27px;
   font-weight: 700;
   text-align: center;
@@ -923,7 +923,7 @@ html {
     padding-left: 32px;
   }
   .div-block-13 {
-    padding-top: 5px;
+    padding-top: 10px;
   }
   .link-5 {
     display: none;
@@ -965,12 +965,12 @@ html {
     padding-left: 30px;
   }
   .div-block-13 {
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 10px;
   }
   .heading {
-    font-size: 28px;
-    line-height: 37px;
+    font-size: 27px;
+    line-height: 35px;
   }
   .link-5 {
     display: -webkit-box;
